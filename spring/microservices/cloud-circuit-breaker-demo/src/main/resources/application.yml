@@ -1,0 +1,15 @@
+server:
+  port: 8073
+#spring:
+#  security:
+#    user:
+#      name: configadmin
+#      password: welcome4
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+
+
+

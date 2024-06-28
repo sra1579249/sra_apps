@@ -1,0 +1,8 @@
+server:
+  port: 8072
+spring:
+  security:
+    user:
+      name: configadmin
+      password: welcome3
+

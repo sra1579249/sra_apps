@@ -1,0 +1,8 @@
+
+s	java:S116"^Rename this field "SQL_INSERT_CUSTOMER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬È†ª
+7
+java:S1170"!Make this final field static too.(¬È†ª
+L
+java:S1611"1Remove the parentheses around the "con" parameter(Ìó„Èúÿÿÿÿ
+D
+java:S1874".Remove this use of "<init>"; it is deprecated.(¤ž¥™

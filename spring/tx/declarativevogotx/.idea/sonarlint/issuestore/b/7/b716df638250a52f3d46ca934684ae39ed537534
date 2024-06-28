@@ -1,0 +1,8 @@
+
+[
+java:S2259 "EA "NullPointerException" could be thrown; "getKey()" can return null.(„³ŒŽ
+v	java:S116"aRename this field "SQL_INSERT_BIKE_RENTAL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»©ñ¥
+7
+java:S1170"!Make this final field static too.(»©ñ¥
+L
+java:S1611"1Remove the parentheses around the "con" parameter(Ìó„Èúÿÿÿÿ

@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: cloud-config-demo
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://ks8500/configrepo.git
+  security:
+    user:
+      name: configadmin
+      password: welcome1
+server:
+  port: 8070
+

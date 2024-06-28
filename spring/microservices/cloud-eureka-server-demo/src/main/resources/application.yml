@@ -1,0 +1,8 @@
+#spring:
+#  security:
+#    user:
+#      name: configadmin
+#      password: welcome2
+server:
+  port: 8071
+
